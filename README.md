@@ -11,9 +11,10 @@ This project processes student/user course reviews from a dataset (`reviews.csv`
 * **Libraries:** Pandas, Scikit-Learn, NumPy, Matplotlib/Seaborn (for data manipulation and modeling)
 
 ## Repository Structure
-├── course_review_sentiment_analysis.ipynb   # Main Google Colab / Jupyter Notebook workflow
-├── reviews.csv                              # Dataset containing the raw course reviews
-└── README.md                                # Project documentation
+sentiment-analysis-ml/
+├── course_review_sentiment_analysis.ipynb
+├── reviews.csv
+└── README.md
 
 ## How to Run
 1. Clone the repository:
