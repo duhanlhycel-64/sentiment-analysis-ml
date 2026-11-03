@@ -12,8 +12,11 @@ This project processes student/user course reviews from a dataset (`reviews.csv`
 
 ## Repository Structure
 sentiment-analysis-ml/
+
 ├── course_review_sentiment_analysis.ipynb
+
 ├── reviews.csv
+
 └── README.md
 
 ## How to Run
